@@ -1,2 +1,2 @@
 # SE379
-Professor Bowen's React Programming Cource
+Professor Bowen's React Programming Course

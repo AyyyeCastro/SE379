@@ -4,6 +4,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css'
 // it needed some basic CSS, my eyes were dying
 
+// adding comment to test push + pull
+// Another comment to test updating it.
 
 // signUp form usestates and validations
 const signUpForm = () => {
